@@ -1,6 +1,6 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hello+there!+Welcome+To+My+Profile;My+Name+Is+Abdullrahmen)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Abdullrahmen Ahmed Seif</h1>
-<h3 align="center">I'm a Software Engineering ST at ALX, Power electronics enginner ST at Cairo university, Data science and AI competitor at Kaggle.</h3>
+<h3 align="center">I'm a Software Engineering ST at ALX, Power electronics engineering ST at Cairo university, Data science and AI competitor at Kaggle.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asamyabdelrahman&label=Profile%20views&color=0e75b6&style=flat" alt="asamyabdelrahman" /> </p>
